@@ -1,0 +1,123 @@
+{
+  "completed_combinations": {
+    "3-18": {
+      "last_page": 107,
+      "total_pages": 0,
+      "completed": false
+    },
+    "4-41": {
+      "last_page": 190,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-35": {
+      "last_page": 497,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-37": {
+      "last_page": 300,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-42": {
+      "last_page": 117,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-38": {
+      "last_page": 242,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-40": {
+      "last_page": 329,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-39": {
+      "last_page": 203,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-36": {
+      "last_page": 169,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-43": {
+      "last_page": 262,
+      "total_pages": 0,
+      "completed": true
+    },
+    "4-44": {
+      "last_page": 231,
+      "total_pages": 0,
+      "completed": true
+    },
+    "2-7": {
+      "last_page": 11,
+      "total_pages": 0,
+      "completed": true
+    },
+    "2-8": {
+      "last_page": 386,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-9": {
+      "last_page": 391,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-10": {
+      "last_page": 337,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-11": {
+      "last_page": 286,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-12": {
+      "last_page": 59,
+      "total_pages": 0,
+      "completed": true
+    },
+    "2-13": {
+      "last_page": 223,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-14": {
+      "last_page": 54,
+      "total_pages": 0,
+      "completed": true
+    },
+    "2-15": {
+      "last_page": 201,
+      "total_pages": 0,
+      "completed": true
+    },
+    "2-16": {
+      "last_page": 158,
+      "total_pages": 0,
+      "completed": false
+    },
+    "2-17": {
+      "last_page": 18,
+      "total_pages": 0,
+      "completed": true
+    },
+    "3-19": {
+      "last_page": 9,
+      "total_pages": 0,
+      "completed": false
+    }
+  },
+  "new_records_found": 35857,
+  "start_time": "2025-07-25T16:30:40.474817",
+  "last_update": "2025-07-25T16:45:32.137984",
+  "current_combination": "3-18"
+}

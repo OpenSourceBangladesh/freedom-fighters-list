@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bangladesh Freedom Fighter Record",
+  "description": "Schema for individual freedom fighter records in the Bangladesh Liberation War database",
+  "type": "object",
+  "required": [
+    "fighter_number",
+    "detail_url",
+    "basic_info",
+    "prove_documents",
+    "waris_info",
+    "scraped_at"
+  ],
+  "properties": {
+    "fighter_number": {"type": "string"},
+    "detail_url": {"type": "string", "format": "uri"},
+    "fighter_photo_url": {"type": "string", "format": "uri"},
+    "basic_info": {"type": "object"},
+    "prove_documents": {"type": "array"},
+    "waris_info": {"type": "array"},
+    "scraped_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": false
+}
